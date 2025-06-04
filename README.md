@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>☕ Here to serve you scripts and biology tea</strong>
+  <strong>☕ Here to serve you scripts and biological tea</strong>
 </p>
 
 <p align='center'>
