@@ -20,12 +20,12 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
  **Technical:**  
  `Python packaging`, `R data analysis`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791)  
 ![Python](https://img.shields.io/badge/Python-white?logo=python&logoColor=3776AB)  
 ![R](https://img.shields.io/badge/R-white?logo=r&logoColor=276DC3)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter&logoColor=F37626)  
 ![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=F05032)  
 ![Linux](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=FCC624)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=336791)  
 ![NumPy](https://img.shields.io/badge/NumPy-white?logo=numpy&logoColor=013243)  
 ![Pandas](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=150458)  
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-white?logo=r&logoColor=276DC3)  
