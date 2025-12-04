@@ -36,7 +36,7 @@ I have a B.Sc. in Bioinformatics from Lebanese American University, Lebanon.
 ![API](https://img.shields.io/badge/API-white?logo=apachenetbeanside&logoColor=orange)
 
 
-###![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marise0&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marise0&layout=compact&theme=default)
 
-###![GitHub Streak](https://streak-stats.demolab.com?user=marise0&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=marise0&theme=default)
 
